@@ -11,7 +11,6 @@ Hệ thống sinh phụ đề và nhận diện hành động dạng dòng chả
 ## 📁 Cấu trúc Repository
 
 * `run_scratch_gradio.py`: Ứng dụng giao diện Web Gradio chạy suy luận thời gian thực (hỗ trợ cả **Webcam trực tiếp** và **File Video**).
-* `train_from_scratch_colab.ipynb`: Toàn bộ mã nguồn huấn luyện mô hình từ đầu trên Google Colab Pro qua các giai đoạn (20k $\to$ 40k $\to$ 110k video).
 * `vocab_40k.json`: Bộ từ vựng chuẩn hóa gồm 8.004 từ.
 * `requirements.txt`: Danh sách các thư viện cần cài đặt.
 

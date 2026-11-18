@@ -5,6 +5,9 @@ venv/
 __pycache__/
 *.pyc
 
+# Notebooks
+*.ipynb
+
 # Các file trọng số lớn (>100MB không thể push trực tiếp lên GitHub)
 *.pt
 *.pth
