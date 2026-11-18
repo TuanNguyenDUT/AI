@@ -1,0 +1,24 @@
+# Môi trường ảo và dependencies
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Các file trọng số lớn (>100MB không thể push trực tiếp lên GitHub)
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Các file nén và dữ liệu thô lớn
+*.zip
+*.tar.gz
+*.mp4
+*.avi
+outputs/
+receipts/
+[Update]_Anet_videos_15fps_short256/
+
+# Checkpoints
+ckpt/
